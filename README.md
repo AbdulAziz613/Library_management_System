@@ -1,5 +1,5 @@
 # Library_management_System
-Project 1 : Library Management System with Fine Calculation in C++
+Project: Library Management System with Fine Calculation in C++
 Features:
 1) The program contains a user interface in which different options can be selected, and each option brings the user to a new screen with a new console color.
 2) The first option is used to display all the books present in the library along with its ID and author.
