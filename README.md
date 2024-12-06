@@ -10,3 +10,4 @@ Features:
 7) If the user selects option 3 the user is asked to enter the id of the book that the user wants to borrow. The record of that book is written in a seperate file borrowedbooks.txt.
 8) If the user selects option 4  the user the content from borrowedbooks.txt is showed which shows all the books that have been borrowed.
 9) If the user selects option 5 the user can return a book using the id . Once the book is returned it is removed from borrowedbooks.txt and a fine calculation is also implemented.There is no fine for the first week but after 7 days there is 20 Rs fine each day.
+![_F__C++_PROJECTS_Project 1_main exe_  12_6_2024 9_30_58 PM](https://github.com/user-attachments/assets/22f5e0a9-b944-4ce9-a328-be8e114684fe)
